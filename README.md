@@ -9,4 +9,8 @@
 ##Task2
 <img width="960" alt="Screenshot 2022-12-16 225254" src="https://user-images.githubusercontent.com/32101980/208151049-55d26190-22f8-4368-9e06-c0f42ed06f11.png">
 
+##Task3
+
+<img width="960" alt="Screenshot 2022-12-16 225358" src="https://user-images.githubusercontent.com/32101980/208151231-2751611c-c672-49b4-929e-6a7b0559393f.png">
+
 
